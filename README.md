@@ -5,27 +5,28 @@ This repository contains my assignments completed as part of the Data Science Ce
 Contents:
 The assignments cover a wide range of topics, including:
 
-• Data Analysis & Visualization
+• Data Analysis & Visualization:
 
    • Exploratory Data Analysis (EDA) using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn
 
-• Machine Learning Models
+• Machine Learning Models:
 
    • Regression, Classification, and Clustering techniques
 
    • Model evaluation and hyperparameter tuning
 
-•Statistical Methods
+•Statistical Methods:
 
    • Hypothesis testing and statistical inference
 
-•SQL & Database Management
+•SQL & Database Management:
 
    • Writing queries for data extraction and analysis
 
 <br>
 
 • Tools & Technologies:
+
 Programming: Python (Jupyter Notebook, Google Colab)
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (basic)
@@ -33,7 +34,9 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (basic)
 Databases: MySQL
 
 Data Visulaization: Tableu
+
 <br>
+
 • Objective:
 The goal of these assignments was to strengthen my skills in data preprocessing, statistical analysis, and building predictive models, while also preparing me for real-world data science projects.
 
