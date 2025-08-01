@@ -23,7 +23,7 @@ The assignments cover a wide range of topics, including:
 
    • Writing queries for data extraction and analysis
 
-
+<br>
 
 • Tools & Technologies:
 Programming: Python (Jupyter Notebook, Google Colab)
@@ -33,7 +33,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (basic)
 Databases: MySQL
 
 Data Visulaization: Tableu
-
+<br>
 • Objective:
 The goal of these assignments was to strengthen my skills in data preprocessing, statistical analysis, and building predictive models, while also preparing me for real-world data science projects.
 
