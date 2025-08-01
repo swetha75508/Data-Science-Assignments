@@ -38,6 +38,7 @@ Data Visulaization: Tableu
 <br>
 
 • Objective:
+
 The goal of these assignments was to strengthen my skills in data preprocessing, statistical analysis, and building predictive models, while also preparing me for real-world data science projects.
 
 
