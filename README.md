@@ -6,21 +6,21 @@ Contents:
 
 The assignments cover a wide range of topics, including:
 
-• Data Analysis & Visualization:
+Data Analysis & Visualization:
 
    • Exploratory Data Analysis (EDA) using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn
 
-• Machine Learning Models:
+Machine Learning Models:
 
    • Regression, Classification, and Clustering techniques
 
    • Model evaluation and hyperparameter tuning
 
-•Statistical Methods:
+Statistical Methods:
 
    • Hypothesis testing and statistical inference
 
-•SQL & Database Management:
+SQL & Database Management:
 
    • Writing queries for data extraction and analysis
 
